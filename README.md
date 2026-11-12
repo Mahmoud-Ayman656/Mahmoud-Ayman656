@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mahmoud Ayman
 
-<!--
-**Mahmoud-Ayman656/Mahmoud-Ayman656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year university student in Alexandria, Egypt. I'm learning Data Engineering and Data Analytics, and I use this profile to document what I build along the way.
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python: data structures, data cleaning, file handling
+- SQL: queries, joins, CTEs
+- Git, GitHub, and VS Code
+
+## Current project
+
+**Data Pipeline Simulator** - a beginner-friendly Python project for practicing how raw data is cleaned and loaded into a database.
+
+## Notes
+
+- I'm still building fundamentals, so my repositories are practice projects, not production code.
+- I'll add projects here as I finish them.
+
+## Contact
+
+mahmoudaymann264@gmail.com
